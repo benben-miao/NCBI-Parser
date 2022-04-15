@@ -1,0 +1,63 @@
+LOCUS       LC654184                1086 bp    DNA     linear   VRT 19-OCT-2021
+DEFINITION  Acanthopagrus latus CBM:ZF:14131 mitochondrial genes for 12S rRNA,
+            tRNA-Val, 16S rRNA, partial and complete sequence.
+ACCESSION   LC654184
+VERSION     LC654184.1
+KEYWORDS    .
+SOURCE      mitochondrion Acanthopagrus latus (yellowfin seabream)
+  ORGANISM  Acanthopagrus latus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Spariformes; Sparidae; Acanthopagrus.
+REFERENCE   1
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1086)
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2021) Contact:Tetsuya Sado Natural History Museum
+            & Institute, Chiba; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682,
+            Japan URL :http://www2.chiba-muse.or.jp/NATURAL/
+FEATURES             Location/Qualifiers
+     source          1..1086
+                     /organism="Acanthopagrus latus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:14131"
+                     /db_xref="taxon:8177"
+                     /tissue_type="muscle"
+                     /country="Japan:Chiba, Kanaya"
+                     /PCR_primers="fwd_name: L-708-12S, fwd_seq:
+                     ttayacatgcaagtatccgc, rev_name: H-1784-16SG, rev_seq:
+                     ttcagctttcccttgcggtac"
+                     /note="purchased at local supermarket in Chiba; Japanese
+                     common name:ki-chinu"
+     rRNA            <1..892
+                     /product="12S ribosomal RNA"
+     tRNA            893..964
+                     /product="tRNA-Val"
+     rRNA            965..>1086
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 atccccgtga gaatgccctg tagttccctg cccggaaaca aggagctggt atcaggcaca
+       61 tttaatttag cccatgacac cttgctaagc cacaccccca agggtactca gcagtgataa
+      121 acattgatac ataagtgaaa acttgactca gtcagagcta agtagggccg gtaaaactcg
+      181 tgccagccac cgcggttata cgggaggccc aagttgtcag aagtcggcgt aaagggtggt
+      241 taagaacaag actaaaatta aagccgaaca tcttccgagc tgttatacgc atccgaaggt
+      301 aagaagctca actacgaaag tagctttata cattctgagt ccacgagagc tgagatacaa
+      361 actgggatta gataccccac tatgcttagc cataaacatt gacagtttat tacattttct
+      421 gtccgcccgg gtactacaag cattagctca aaacccaaag gacttggcgg tgctttagac
+      481 ccacctagag gagcctgttc tggaaccgat aatccccgtt caacctcacc cttccttgcc
+      541 tctcccgcct atataccacc gtcgttcagc ttaccctgtg aaggataaag agtaagcaaa
+      601 actggcatca cccagtacgt caggtcgagg tgtagcgaat ggaagggaag aaatgggcta
+      661 cattcccttg tcttcaggga actacgaata gtgcattgaa aacatgtact taaaggagga
+      721 tttagcagta agcagaaatt tagagggttc tgctgaaact ggctcttaag cgcgcacaca
+      781 ccgcccgtca ctctccccga gactttaaac ttacattagc taaaacatca aaattgcaga
+      841 ggggaggcaa gtcgtaacat ggtaagtgta ccggaaggtg cacttggtaa accaacgcat
+      901 agctcaacta gaacagcatc tcccttacac tgagaagata cccgtgcaaa ccgggttgcc
+      961 ttgaagccca tcagctagcc ccccaacaaa aaacaacaca cccccataaa taaccccaca
+     1021 tgcacttaca tcaaactaaa caaatcattt tcccacccaa gtatgggcga cagaaaagga
+     1081 actagc
+//
+
