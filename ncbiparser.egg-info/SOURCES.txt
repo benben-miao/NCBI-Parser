@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+ncbiparser/README.md
+ncbiparser/__inint__.py
+ncbiparser/ncbi-parser.test.py
+ncbiparser/ncbiparser.py
+ncbiparser.egg-info/PKG-INFO
+ncbiparser.egg-info/SOURCES.txt
+ncbiparser.egg-info/dependency_links.txt
+ncbiparser.egg-info/entry_points.txt
+ncbiparser.egg-info/requires.txt
+ncbiparser.egg-info/top_level.txt

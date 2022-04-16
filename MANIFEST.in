@@ -1,0 +1,2 @@
+include *.py *.md
+recursive-include examples *.sh *.py *.ipynb *.txt *.xlsx *.gbk *.fasta *.seq

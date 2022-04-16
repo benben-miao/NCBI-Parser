@@ -1,0 +1,50 @@
+LOCUS       MK919144                 567 bp    DNA     linear   VRT 10-JUL-2020
+DEFINITION  Acanthopagrus pacificus voucher SPAR040418-1 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MK919144
+VERSION     MK919144.1
+KEYWORDS    .
+SOURCE      mitochondrion Acanthopagrus pacificus (Pacific sunbream)
+  ORGANISM  Acanthopagrus pacificus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Spariformes; Sparidae; Acanthopagrus.
+REFERENCE   1  (bases 1 to 567)
+  AUTHORS   Hasan,M.E., Durand,J.-D. and Iwatsuki,Y.
+  TITLE     Acanthopagrus datnia (Hamilton, 1822), a senior synonym
+            of#Acanthopagrus longispinnis (Valenciennes, 1830) (Perciformes:
+            Sparidae)
+  JOURNAL   Zootaxa 4750 (2), 151-181 (2020)
+REFERENCE   2  (bases 1 to 567)
+  AUTHORS   Hassan,M.E., Durand,J.-D. and Iwatsuki,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2019) Ocean, IRD, MARBEC cc093 Bat 24 Place E.
+            Bataillon, Montpellier, Herault 34095, France
+FEATURES             Location/Qualifiers
+     source          1..567
+                     /organism="Acanthopagrus pacificus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SPAR040418-1"
+                     /db_xref="BOLD:SPARM032-19.16S"
+                     /db_xref="taxon:1129777"
+                     /country="Viet Nam: Ba Ria-Vung Tau, V##ng T##u (fish
+                     market in Ho Chi Minh, D2)"
+                     /collection_date="04-Apr-2018"
+                     /collected_by="Jean-Dominique Durand"
+                     /identified_by="Jean-Dominique Durand"
+     rRNA            <1..>567
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aagaggtccc gcctgccctg tgactatatg ttcaacggcc gcggtatttt gaccgtgcga
+       61 aggtagcgta atcacttgtc ttttaaatga agacctgtat gaatggcacc acgagggctt
+      121 aactgtctcc ctctcccagt caatgaaatt gattcccccg tgcagaagcg gggataaaag
+      181 cataagacga gaagacccta tggagcttaa gacgccagga cagctcatgt taaacactcc
+      241 aaaataaagg aaataaactg attgaaaccc tgtcctagtg tctttggttg gggcgaccac
+      301 ggggaaaaat ctaaccccca tgtggaatag gaatactatt ttcccatacc caagagttcc
+      361 cgctctaata aacagaactt ctgaccaaaa tggatccggc aatgccgatc aacggaccga
+      421 gttaccctag ggataacagc gcaatcctct taaagagtcc ctatcgacaa gggggtttac
+      481 gacctcgatg ttggatcagg acatcctaat ggtgcagccg ctattaaggg ttcgtttgtt
+      541 caacgattaa agtcctacgt gatctga
+//
+
